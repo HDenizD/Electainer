@@ -13,3 +13,5 @@ Its just a simply Portainer App combined with the Power of Electron.
 https://portainer.io/install.html
 
 # Start Electainer
+
+inside Electainer/release-builds/Electainer-linux-x64/. run "Electainer"
