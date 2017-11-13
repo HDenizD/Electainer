@@ -13,7 +13,7 @@ https://portainer.io/install.html
 
 # Install Electainer
 
-- I recomend to `mv` Electainer-linux-x64 into /opt folder inside root
+- I recommend to `mv` Electainer-linux-x64 into /opt folder inside root
 
 `sudo mv Electainer/release-builds/Electainer-linux-x64 /opt`
 
